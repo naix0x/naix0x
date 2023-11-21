@@ -1,18 +1,7 @@
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naix0x&repo=Bot-Visitor-Proxy&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-<!--
-**naix0x/naix0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naix0x&layout=compact&theme=cobalt&hide_border=true" />
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/naix0x">
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=naix0x&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/Pepyn0">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naix0x&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
