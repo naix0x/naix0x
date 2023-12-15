@@ -1,6 +1,6 @@
 #### Exploration
 
-Software developer with a keen interest in web development. I enjoy exploring new technologies and contributing to open-source projects. Key skills include HTML, CSS, JavaScript, Python, & SQL. Always seeking opportunities to learn and collaborate with the developer community."
+Yep, that's right, everything I make is a script that is useless for some people. But now trying to learn all programming languages, now focusing on NodeJs, ExpressJs & Python
 
  #### Languages used
 
